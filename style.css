@@ -1,0 +1,27 @@
+body {
+    background-color: #E8E4DC;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 { font-size: 40px;
+     color: #3F4638; 
+     font-family: Georgia, serif;
+}
+
+button { 
+    background-color: #7D8B6A;
+    color: #fff;
+    border-radius: 8px;
+    padding: 12px 20px;
+    border:none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6B765B;
+    
+}
